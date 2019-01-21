@@ -1,7 +1,7 @@
 
 import { BasicVideoPlayer, addCustomizedVideoPlayer, getSupportedFormats } from 'react-360-web';
 import dashjs from 'dashjs'
-
+//THIS MODULE IS NOT WORKING
 
 export default class DashVideoPlayer extends addCustomizedVideoPlayer {
 //static supportedFormats = hlsSupportedFormats;
